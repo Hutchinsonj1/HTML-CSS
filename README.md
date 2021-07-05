@@ -7,5 +7,4 @@ HOW TO RUN THIS APP:
     Open the 'JOHN_CENA_webserver.html' file
 
     In 'Terminal' tab at the top, click 'Run Active File' r\n\r\n
-    If this doesn't work, open the folder you cloned my files to 
-    and double-click the 'JOHN_CENA_webserver.html' file
+    If this doesn't work, open the folder you cloned my files to and double-click the 'JOHN_CENA_webserver.html' file
